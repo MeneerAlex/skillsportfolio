@@ -9,9 +9,10 @@
 #### - Planning
 #### - ReflectieVerslag
 
-### Werk: Waar ben ik het bets op mijn plek?
+### Werk: Waar ben ik het best op mijn plek?
 #### - Planning
 #### - Starr
+#### - Vacature
 
 ### Loopbanen: Hoe bereik ik mijn doel?
 #### - Starr
